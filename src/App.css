@@ -1,0 +1,8 @@
+:root {
+  --image-url: url('../src/assets/AbstractDesign.png');
+}
+
+.custom-bg {
+  background-image: var(--image-url);
+  background-color: aqua;
+}
